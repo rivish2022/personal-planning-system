@@ -1,0 +1,60 @@
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.exe
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.deps.json
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.runtimeconfig.json
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.pdb
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.AssemblyReference.cache
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form1.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form2.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form3.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form4.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Properties.Resources.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.GenerateResource.cache
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.AssemblyInfoInputs.cache
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.AssemblyInfo.cs
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.CoreCompileInputs.cache
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal.6EE42F54.Up2Date
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\refint\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.pdb
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.genruntimeconfig.cache
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\ref\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form5.resources
+C:\Users\RIVISHKA\Desktop\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form6.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.exe
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.deps.json
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.runtimeconfig.json
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\personal planning system.pdb
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.AssemblyReference.cache
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form1.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form2.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form3.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form4.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form5.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Form6.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal_planning_system.Properties.Resources.resources
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.GenerateResource.cache
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.AssemblyInfoInputs.cache
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.AssemblyInfo.cs
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.csproj.CoreCompileInputs.cache
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal.6EE42F54.Up2Date
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\refint\personal planning system.dll
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.pdb
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\personal planning system.genruntimeconfig.cache
+C:\Users\RIVISHKA\Desktop\ALL\visual\1_project\personal planning system\obj\Debug\net8.0-windows\ref\personal planning system.dll
